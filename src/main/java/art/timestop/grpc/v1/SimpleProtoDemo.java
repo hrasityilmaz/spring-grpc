@@ -1,4 +1,4 @@
-package art.timestop.grpc_playgound.v1;
+package art.timestop.grpc.v1;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

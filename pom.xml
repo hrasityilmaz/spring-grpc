@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>art.timestop</groupId>
-    <artifactId>grpc-playgound</artifactId>
+    <artifactId>grpc</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>grpc-playgound</name>
+    <name>grpc</name>
     <description>Demo project for Spring Boot</description>
     <url/>
     <licenses>

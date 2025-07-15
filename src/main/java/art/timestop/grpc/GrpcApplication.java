@@ -1,13 +1,13 @@
-package art.timestop.grpc_playgound;
+package art.timestop.grpc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GrpcPlaygoundApplication {
+public class GrpcApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(GrpcPlaygoundApplication.class, args);
+		SpringApplication.run(GrpcApplication.class, args);
 	}
 
 }

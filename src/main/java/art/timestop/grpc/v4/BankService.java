@@ -1,4 +1,4 @@
-package art.timestop.grpc_playgound.v4;
+package art.timestop.grpc.v4;
 
 import art.timestop.models.v4.AccountBalance;
 import art.timestop.models.v4.BalanceCheckRequest;
